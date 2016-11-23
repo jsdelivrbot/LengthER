@@ -1,2 +1,1 @@
-# LengthER
-Estimate Length of Stay in Emergency Room
+For the write-up report, please see file "Report.pdf" 
